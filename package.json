@@ -1,5 +1,5 @@
 {	"author": "Ionel Vasile",
- 	"description": "A project that does something awesome",
+ 	"description": "managing with npm the Free Code Camp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
